@@ -1,3 +1,7 @@
+⚠️ This repository is now deprecated. Please use https://github.com/smplrspace/github-tag-action-explicit instead.
+
+---
+
 # GitHub Tag Action
 
 A GitHub Action to automatically bump and tag master, on merge, with the latest SemVer formatted version. Works on any platform.
